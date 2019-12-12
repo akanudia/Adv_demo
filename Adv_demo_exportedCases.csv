@@ -1348,48 +1348,6 @@ DemoS_A003,TIMES,frmMdlVars,Net Lev Cost,0
 DemoS_A003,TIMES,Solve,ExpMemory,
 DemoS_A003,TIMES,Solve,MaxHitWaitTime,
 DemoS_A003,TIMES,Solve,ProjectName,
-DemoS_0,TIMES,Solve,strGAMSRoot,C:\VEDA\VEDA_FE
-DemoS_0,TIMES,Solve,txtRunName,DemoS_0
-DemoS_0,TIMES,Solve,txtRunDesc,
-DemoS_0,TIMES,Solve,txtRunEDesc,
-DemoS_0,TIMES,Solve,optCplex,1
-DemoS_0,TIMES,Solve,strCplex,BA124-7
-DemoS_0,TIMES,Solve,optXpress,0
-DemoS_0,TIMES,Solve,OptOther,0
-DemoS_0,TIMES,Solve,OptDefault,0
-DemoS_0,TIMES,Solve,chkERPrice,0
-DemoS_0,TIMES,Solve,RunForIRE,COM_BPRICE
-DemoS_0,TIMES,Solve,chkCloseDOS,1
-DemoS_0,TIMES,Solve,chkDontRun,0
-DemoS_0,TIMES,Solve,chkLinVarCost,0
-DemoS_0,TIMES,Solve,chkUploadVD,0
-DemoS_0,TIMES,Solve,Scenarios,.BASE.NewTechs.New-IND.New-CHP-DH.NewTechs-SolWin.TRADE_PARAM.DEM_Ref.SysSettings.
-DemoS_0,TIMES,Solve_T,ScenariosOrder,BASE.NewTechs.New-IND.New-CHP-DH.NewTechs-SolWin.TRADE_PARAM.DEM_Ref.SysSettings.migdemo_attrValCond.migdemo2.pmodelcurt.scalingcorrection.solwindcost-Hi.solwindcost-Lo.UCs.YattribValcond.Zmigdemo_attrValCond.migdemo.FillTabledemo.CO2_TAX.wCO2_Price.wELC-RPS.wGasPrice.Par-CO2Price.Par-ELC-RPS.Par-GasPrice.Par-RPS_CO2p_GasP_Nuc.
-DemoS_0,TIMES,Solve,Regions,.BE.IT.NL.REG1.REG2.UK.
-DemoS_0,TIMES,Solve,EndYr,2050
-DemoS_0,TIMES,Solve,cmdShowFiles_ELASTDEM,No Elast DEM
-DemoS_0,TIMES,Solve,cmdShowFiles_ELASTDEM_Fldr,
-DemoS_0,TIMES,Solve,cmdShowFiles_Restart,Show Files
-DemoS_0,TIMES,Solve,cmdShowFiles_Restart_Fldr,
-DemoS_0,TIMES,Solve,tbr_PRC_BND,IRE
-DemoS_0,TIMES,Solve,cmdShowFiles_PRC_BND,NONE
-DemoS_0,TIMES,Solve,cmdShowFiles_PRC_BND_Fldr,
-DemoS_0,TIMES,Solve,CmbTPDefs,Pdef-11
-DemoS_0,TIMES,Solve,DT,11-Dec-2019  12:43 PM
-DemoS_0,TIMES,Solve,AttachModels,
-DemoS_0,TIMES,Solve,ActiveAttachModels,
-DemoS_0,TIMES,Solve,chkTerOK,0
-DemoS_0,TIMES,Solve,txtTarget_Gennie,
-DemoS_0,TIMES,Solve,txtTolerance_Gennie,
-DemoS_0,TIMES,Solve,chkJacA,0
-DemoS_0,TIMES,frmMdlVars,Macro,0
-DemoS_0,TIMES,frmMdlVars,CSA,0
-DemoS_0,TIMES,frmMdlVars,MSA,0
-DemoS_0,TIMES,frmMdlVars,None,1
-DemoS_0,TIMES,frmMdlVars,Auto,1
-DemoS_0,TIMES,frmMdlVars,Standard,0
-DemoS_0,TIMES,frmMdlVars,Modified,0
-DemoS_0,TIMES,frmMdlVars,Alternate,0
 DemoS_A003,TIMES,Solve,chkVRQ,0
 DemoS_A002a,TIMES,frmMdlVars,Mid-year Discounting,0
 DemoS_A002a,TIMES,frmMdlVars,Shift Discounting by:,0
@@ -1968,9 +1926,6 @@ DemoS,TIMES,frmMdlVars,SPINES(EV),0
 DemoS,TIMES,frmMdlVars,Run Reports Only,0
 DemoS,TIMES,frmMdlVars,Use as Start Point,0
 DemoS,TIMES,frmMdlVars,Run in steps of:,0
-DemoS_0,TIMES,frmMdlVars,Run in steps of:_Val,
-DemoS_0,TIMES,frmMdlVars,TimeStepOverlap,
-DemoS_0,TIMES,frmMdlVars,Save Solution Information,0
 DemoS_1,TIMES,frmMdlVars,Damage-LP,0
 DemoS_1,TIMES,frmMdlVars,Damage-NLP,0
 DemoS_1,TIMES,frmMdlVars,Damage-NO,1
@@ -1981,56 +1936,27 @@ DemoS_1,TIMES,frmMdlVars,OPTCR,
 DemoS,TIMES,Solve,ExpMemory,
 DemoS,TIMES,Solve,MaxHitWaitTime,
 DemoS,TIMES,Solve,ProjectName,
-DemoS_0,TIMES,frmMdlVars,Mid-year Discounting,1
-DemoS_0,TIMES,frmMdlVars,Shift Discounting by:,0
-DemoS_0,TIMES,frmMdlVars,Shift Discounting by:_Val,0
-DemoS_0,TIMES,frmMdlVars,OBLONG,1
-DemoS_0,TIMES,frmMdlVars,Damage-LP,0
-DemoS_0,TIMES,frmMdlVars,Damage-NLP,0
-DemoS_0,TIMES,frmMdlVars,Damage-NO,1
-DemoS_0,TIMES,frmMdlVars,PF,1
-DemoS_0,TIMES,frmMdlVars,Stochastic,0
-DemoS_0,TIMES,frmMdlVars,SPINES,0
-DemoS_0,TIMES,frmMdlVars,SPINES(EV),0
-DemoS_0,TIMES,frmMdlVars,Activate Sensitivity Analysis,0
-DemoS_0,TIMES,frmMdlVars,GAMSOptionBRATIO,1
-DemoS_0,TIMES,frmMdlVars,Endogenous Tech Learning,0
-DemoS_0,TIMES,frmMdlVars,Discrete Investment,0
-DemoS_0,TIMES,frmMdlVars,Discrete Unit Commitment,0
-DemoS_0,TIMES,frmMdlVars,Fix Years Upto,0
-DemoS_0,TIMES,frmMdlVars,Fix Years Upto_Val,None
-DemoS_0,TIMES,frmMdlVars,FixFromRun,NONE
-DemoS_0,TIMES,frmMdlVars,FixFromRun_Fldr,
-DemoS_0,TIMES,frmMdlVars,Run Reports Only,0
-DemoS_0,TIMES,frmMdlVars,Use as Start Point,0
-DemoS_0,TIMES,frmMdlVars,Run in steps of:,0
-DemoS_0,TIMES,frmMdlVars,Use Last Run as Starting Point,0
-DemoS_0,TIMES,frmMdlVars,Write B Price for Elast Dem,1
-DemoS_0,TIMES,frmMdlVars,CO2 Calibration at BOH,0
-DemoS_0,TIMES,frmMdlVars,Use Slack Variables in UC,0
-DemoS_0,TIMES,frmMdlVars,Retire,0
-DemoS_0,TIMES,frmMdlVars,FLOTS-Flow Variable,0
-DemoS_0,TIMES,frmMdlVars,FLOTS-Commodity Level,1
-DemoS_0,TIMES,frmMdlVars,FLOTS-Annual,0
-DemoS_0,TIMES,frmMdlVars,OPTCR,
-DemoS_0,TIMES,frmMdlVars,OPTCA,
-DemoS_0,TIMES,frmMdlVars,ITERLIM,999999
-DemoS_0,TIMES,frmMdlVars,LIMROW,0
-DemoS_0,TIMES,frmMdlVars,LIMCOL,0
-DemoS_0,TIMES,frmMdlVars,SOLPRINT,0
-DemoS_0,TIMES,frmMdlVars,Activate Reporting,1
-DemoS_0,TIMES,frmMdlVars,Exclude emissions,1
 DemoS_Ref,TIMES,Solve,RunForIRE,COM_BPRICE
 DemoS_Ref,TIMES,frmMdlVars,OBLONG,1
 DemoS_Ref,TIMES,frmMdlVars,Activate Sensitivity Analysis,0
 DemoS_Ref,TIMES,frmMdlVars,GAMSOptionBRATIO,1
 DemoS_Ref,TIMES,frmMdlVars,Endogenous Tech Learning,0
-DemoS_0,TIMES,frmMdlVars,Include emissions,0
-DemoS_0,TIMES,frmMdlVars,Net Lev Cost,0
-DemoS_0,TIMES,Solve,ExpMemory,
-DemoS_0,TIMES,Solve,MaxHitWaitTime,
-DemoS_0,TIMES,Solve,ProjectName,
-DemoS_0,TIMES,Solve,chkVRQ,0
+DemoS_0,TIMES,Solve,ActivePath,GAMS_SRCTIMESV438
+DemoS_0,TIMES,Solve,ActiveWPath,GAMS_WRKTIMES
+DemoS_0,TIMES,Solve,optXpress,0
+DemoS_0,TIMES,Solve,OptOther,0
+DemoS_0,TIMES,Solve,OptDefault,0
+DemoS_0,TIMES,Solve,chkERPrice,0
+DemoS_0,TIMES,Solve,chkERBnd,0
+DemoS_0,TIMES,Solve,RunForIRE,COM_BPRICE
+DemoS_0,TIMES,Solve,chkCloseDOS,1
+DemoS_0,TIMES,Solve,chkDontRun,0
+DemoS_0,TIMES,Solve,chkLinVarCost,0
+DemoS_0,TIMES,Solve,chkUploadVD,0
+DemoS_0,TIMES,Solve,Scenarios,.BASE.NewTechs.New-IND.New-CHP-DH.NewTechs-SolWin.TRADE_PARAM.DEM_Ref.SysSettings.
+DemoS_0,TIMES,Solve,Regions,.AT.BE.DE.ES.FR.IT.NL.REG1.REG2.UK.
+DemoS_0,TIMES,Solve,EndYr,2050
+DemoS_0,TIMES,Solve,cmdShowFiles_ELASTDEM,No Elast DEM
 DemoS_Ref,TIMES,frmMdlVars,Discrete Investment,0
 DemoS_Ref,TIMES,frmMdlVars,Discrete Unit Commitment,0
 DemoS_Ref,TIMES,frmMdlVars,Fix Years Upto,0
@@ -2057,6 +1983,12 @@ DemoS_Ref,TIMES,Solve,txtRunName,DemoS_Ref
 DemoS_Ref,TIMES,Solve,txtRunDesc,Ref with adv tra
 DemoS_Ref,TIMES,Solve,txtRunEDesc,
 DemoS_Ref,TIMES,Solve,optCplex,1
+DemoS_0,TIMES,Solve,cmdShowFiles_ELASTDEM_Fldr,
+DemoS_0,TIMES,Solve,cmdShowFiles_Restart,Show Files
+DemoS_0,TIMES,Solve,cmdShowFiles_Restart_Fldr,
+DemoS_0,TIMES,Solve,tbr_PRC_BND,IRE
+DemoS_0,TIMES,Solve,cmdShowFiles_PRC_BND,NONE
+DemoS_0,TIMES,Solve,cmdShowFiles_PRC_BND_Fldr,
 DemoS_Ref,TIMES,Solve,strCplex,BA124-7
 DemoS_Ref,TIMES,Solve,optXpress,0
 DemoS_Ref,TIMES,Solve,OptOther,0
@@ -2133,7 +2065,75 @@ DemoS,TIMES,frmMdlVars,OPTCA,
 DemoS,TIMES,frmMdlVars,SOLPRINT,0
 DemoS,TIMES,frmMdlVars,Net Lev Cost,0
 DemoS,TIMES,Solve,chkVRQ,0
-DemoS_0,TIMES,Solve,ActivePath,GAMS_SRCTIMESV438
-DemoS_0,TIMES,Solve,ActiveWPath,GAMS_WRKTIMES
-DemoS_0,TIMES,Solve,chkERBnd,0
+DemoS_0,TIMES,Solve,strGAMSRoot,C:\VEDA\VEDA_FE
+DemoS_0,TIMES,Solve,txtRunName,DemoS_0
+DemoS_0,TIMES,Solve,txtRunDesc,
+DemoS_0,TIMES,Solve,txtRunEDesc,
+DemoS_0,TIMES,Solve,optCplex,1
+DemoS_0,TIMES,Solve,strCplex,BA124-7
+DemoS_0,TIMES,Solve_T,ScenariosOrder,BASE.NewTechs.New-IND.New-CHP-DH.NewTechs-SolWin.TRADE_PARAM.DEM_Ref.SysSettings.migdemo_attrValCond.migdemo2.pmodelcurt.scalingcorrection.solwindcost-Hi.solwindcost-Lo.UCs.YattribValcond.Zmigdemo_attrValCond.migdemo.FillTabledemo.CO2_TAX.wCO2_Price.wELC-RPS.wGasPrice.Par-CO2Price.Par-ELC-RPS.Par-GasPrice.Par-RPS_CO2p_GasP_Nuc.
+DemoS_0,TIMES,Solve,CmbTPDefs,Pdef-11
+DemoS_0,TIMES,Solve,DT,11-Dec-2019  02:35 PM
+DemoS_0,TIMES,Solve,AttachModels,
+DemoS_0,TIMES,Solve,ActiveAttachModels,
+DemoS_0,TIMES,Solve,chkTerOK,0
+DemoS_0,TIMES,Solve,txtTarget_Gennie,
+DemoS_0,TIMES,Solve,txtTolerance_Gennie,
+DemoS_0,TIMES,Solve,chkJacA,0
+DemoS_0,TIMES,frmMdlVars,Macro,0
+DemoS_0,TIMES,frmMdlVars,CSA,0
+DemoS_0,TIMES,frmMdlVars,MSA,0
+DemoS_0,TIMES,frmMdlVars,None,1
+DemoS_0,TIMES,frmMdlVars,Auto,1
+DemoS_0,TIMES,frmMdlVars,Standard,0
+DemoS_0,TIMES,frmMdlVars,Modified,0
+DemoS_0,TIMES,frmMdlVars,Alternate,0
 DemoS_0,TIMES,frmMdlVars,Linearized,0
+DemoS_0,TIMES,frmMdlVars,Mid-year Discounting,1
+DemoS_0,TIMES,frmMdlVars,Shift Discounting by:,0
+DemoS_0,TIMES,frmMdlVars,Shift Discounting by:_Val,0
+DemoS_0,TIMES,frmMdlVars,OBLONG,1
+DemoS_0,TIMES,frmMdlVars,Damage-LP,0
+DemoS_0,TIMES,frmMdlVars,Damage-NLP,0
+DemoS_0,TIMES,frmMdlVars,Damage-NO,1
+DemoS_0,TIMES,frmMdlVars,Use Slack Variables in UC,0
+DemoS_0,TIMES,frmMdlVars,Retire,0
+DemoS_0,TIMES,frmMdlVars,FLOTS-Flow Variable,0
+DemoS_0,TIMES,frmMdlVars,FLOTS-Commodity Level,1
+DemoS_0,TIMES,frmMdlVars,FLOTS-Annual,0
+DemoS_0,TIMES,frmMdlVars,OPTCR,
+DemoS_0,TIMES,frmMdlVars,OPTCA,
+DemoS_0,TIMES,frmMdlVars,ITERLIM,999999
+DemoS_0,TIMES,frmMdlVars,LIMROW,0
+DemoS_0,TIMES,frmMdlVars,LIMCOL,0
+DemoS_0,TIMES,frmMdlVars,SOLPRINT,0
+DemoS_0,TIMES,frmMdlVars,Activate Reporting,1
+DemoS_0,TIMES,frmMdlVars,Exclude emissions,1
+DemoS_0,TIMES,frmMdlVars,PF,1
+DemoS_0,TIMES,frmMdlVars,Stochastic,0
+DemoS_0,TIMES,frmMdlVars,SPINES,0
+DemoS_0,TIMES,frmMdlVars,SPINES(EV),0
+DemoS_0,TIMES,frmMdlVars,Activate Sensitivity Analysis,0
+DemoS_0,TIMES,frmMdlVars,GAMSOptionBRATIO,1
+DemoS_0,TIMES,frmMdlVars,Endogenous Tech Learning,0
+DemoS_0,TIMES,frmMdlVars,Discrete Investment,0
+DemoS_0,TIMES,frmMdlVars,Discrete Unit Commitment,0
+DemoS_0,TIMES,frmMdlVars,Fix Years Upto,0
+DemoS_0,TIMES,frmMdlVars,Fix Years Upto_Val,None
+DemoS_0,TIMES,frmMdlVars,FixFromRun,NONE
+DemoS_0,TIMES,frmMdlVars,FixFromRun_Fldr,
+DemoS_0,TIMES,frmMdlVars,Run Reports Only,0
+DemoS_0,TIMES,frmMdlVars,Use as Start Point,0
+DemoS_0,TIMES,frmMdlVars,Run in steps of:,0
+DemoS_0,TIMES,frmMdlVars,Run in steps of:_Val,
+DemoS_0,TIMES,frmMdlVars,TimeStepOverlap,
+DemoS_0,TIMES,frmMdlVars,Save Solution Information,0
+DemoS_0,TIMES,frmMdlVars,Use Last Run as Starting Point,0
+DemoS_0,TIMES,frmMdlVars,Write B Price for Elast Dem,1
+DemoS_0,TIMES,frmMdlVars,CO2 Calibration at BOH,0
+DemoS_0,TIMES,frmMdlVars,Include emissions,0
+DemoS_0,TIMES,frmMdlVars,Net Lev Cost,0
+DemoS_0,TIMES,Solve,ExpMemory,
+DemoS_0,TIMES,Solve,MaxHitWaitTime,
+DemoS_0,TIMES,Solve,ProjectName,
+DemoS_0,TIMES,Solve,chkVRQ,0
