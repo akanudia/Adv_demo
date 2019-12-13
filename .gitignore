@@ -1,3 +1,4 @@
 databases\*.mdb
 *.MDB
-suppxls\ParScenFiles\*.*
+suppxls\ParScenFiles\*.xlsx
+suppxls\ParScenFiles\*.xls
